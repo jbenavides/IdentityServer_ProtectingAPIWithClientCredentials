@@ -1,0 +1,9 @@
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\bin\Debug\netcoreapp1.1\Api.deps.json
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\bin\Debug\netcoreapp1.1\Api.runtimeconfig.json
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\bin\Debug\netcoreapp1.1\Api.runtimeconfig.dev.json
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\bin\Debug\netcoreapp1.1\Api.dll
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\obj\Debug\netcoreapp1.1\Api.csprojResolveAssemblyReference.cache
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\obj\Debug\netcoreapp1.1\Api.AssemblyInfo.cs
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\bin\Debug\netcoreapp1.1\Api.pdb
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\obj\Debug\netcoreapp1.1\Api.dll
+c:\users\paolo\documents\visual studio 2017\Projects\QuickstartIdentityServer\Api\obj\Debug\netcoreapp1.1\Api.pdb
